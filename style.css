@@ -1,0 +1,119 @@
+.bg-color{
+    background-color: #212121;
+    
+}
+
+.navlink{
+    color:  RGB(255, 255, 255);
+    font-weight:400;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+    
+}
+
+.navlink:hover{
+    color:  RGB(255, 255, 255);
+    font-weight:400;
+    font-size: 16pxpx;
+    cursor: pointer;
+}
+
+
+.nav-item1{
+    margin-right: 70px;
+
+}
+
+.bg{
+    /* background-color: red; */
+}
+
+.nav-height{
+    height: 80px;
+}
+
+
+/* start hero section code  */
+
+.hero-section{
+    background-color: #212121;
+    width: 100%;
+    height: 700px;
+}
+
+.h1{
+    font-family: "Area Normal" Helvetica Arial sans-serif;
+    font-size: 110px;
+    color: white;
+    font-weight: 1000;
+    transform: scaleX(1.3);
+
+
+
+}
+
+
+.mt-top{
+    margin-top: -40px;
+}
+
+/* for fist and third image  */
+
+.image1-container{
+    height: 500px;
+    margin-top: 170px;
+    
+}
+
+
+.first-image{
+    width: 300px;
+    height: 200px;
+    margin-left: 240px;
+    overflow: hidden;
+}
+
+
+.third-image{
+    width: 300px;
+    height: 200px;
+    margin-top: 120px;
+    margin-left: 320px;
+
+}
+
+/* end first and third image  */
+
+
+.image2-container{
+    height: 500px;
+    width: 200px;
+    margin-top: 85px;
+    
+}
+
+.second-image{
+    width: 300px;
+    height: 200px;
+    
+    margin-top: 100px;
+    
+
+    
+
+}
+
+
+
+/* 
+.cont2{
+    border: 2px solid green;
+}
+
+.cont{
+    background-color: red;
+}
+
+
+ */
